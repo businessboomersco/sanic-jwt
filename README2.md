@@ -28,6 +28,6 @@ npm start
 ```
 
 
-## Links to blog posts, patterns, libraries or addons used to solve this problem
+## Link to azure or any referance
 _link to [azure story](https://dev.azure.com/zvendo/zVedno%20All%20Issues/_sprints/)_
 
